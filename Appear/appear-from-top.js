@@ -7,7 +7,7 @@
  
  
  //Gets the trigger layer
- var enter = getLayerByName('side-dashboard btn');
+ var enter = getLayerByName('replace-me-with-your-trigger-layer-name');
  
  //Sets the position and opacity for the initial state.
  var selectedLayer = getSelectedLayer();
