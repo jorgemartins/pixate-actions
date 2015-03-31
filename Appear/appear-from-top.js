@@ -11,8 +11,8 @@
  
  //Sets the position and opacity for the initial state.
  var selectedLayer = getSelectedLayer();
- //selectedLayer.y = selectedLayer.y - 10;
- //selectedLayer.opacity = 0;
+ selectedLayer.y = selectedLayer.y - 10;
+ selectedLayer.opacity = 0;
  
  //Delay
  var delayAmount = 0.1;
