@@ -1,7 +1,7 @@
 /**
 * Appear: fade from top, 1st time
 * @desc Makes a layer appear from top, by tapping a tappable layer. It will only fade the first time. 
-* @author Jorge MArtins
+* @author Jorge Martins
 * @version 1.0
 */
  
